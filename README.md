@@ -1,6 +1,6 @@
 # Multi-Store E-Commerce Growth & Diversification (2022)
 
-![Executive Dashboard](assets/Project 1 - Dashboard2.png)
+![Executive Dashboard](assets/project-preview.png)
 
 ## 📌 Executive Summary
 **Role:** Senior Data Analyst | **Stakeholder:** Head of Operations  
