@@ -95,8 +95,10 @@ To enable this analysis, a consolidated **Star Schema** was engineered in MariaD
 - `sql/01_schema_setup.sql`: Full DDL for the Star Schema (staging, dimensions, facts).
 - `sql/02_analytical_views.sql`: View layer for Tableau consumption.
 - `sql/03_data_quality_tests.sql`: Validation queries to ensure data integrity.
-- `docs/business_memo.md`: Full business analysis, strategic insights and recommendations.
-- `assets/`: Dashboard preview and ERD diagram.
+- `sql/04_data_exports.sql`: Extraction queries used to generate each CSV dataset.
+- `data/`: Static CSV exports consumed by the Tableau Public workbook.
+- `docs/business_memo.md`: Full business analysis, growth decomposition and strategic recommendations.
+- `assets/`: Dashboard screenshots and ERD diagram.
 - `dashboard/`: Packaged Tableau workbook (`.twbx`).
 
 ---
