@@ -1,6 +1,6 @@
 # Business Memo: FY 2022 Portfolio Performance Review
 
-**To:** Key Stakeholders — Foundation Group  
+**To:** Key Stakeholders — Rabbona Group  
 **From:** Luis Fernando Jordan, Data Analyst  
 **Date:** January 2023  
 **Subject:** FY 2022 Growth Mechanics & Portfolio Diversification — Final Analysis
@@ -13,7 +13,7 @@
 
 ## 1. Executive Summary
 
-In FY 2022, the consolidated Foundation Group portfolio generated **$423,429 in Net Revenue** across **2,521 orders** from 4 active storefronts. This year represents a structural turning point: for the first time, **no single brand accounted for more than 37% of total revenue**, a dramatic shift from the near-total dependency on Pasión Albiverde that defined 2020.
+In FY 2022, the consolidated Rabbona Group portfolio generated **$423,429 in Net Revenue** across **2,521 orders** from 4 active storefronts. This year represents a structural turning point: for the first time, **no single brand accounted for more than 37% of total revenue**, a dramatic shift from the near-total dependency on Pasión Albiverde that defined 2020.
 
 **Two critical findings shape the strategic posture for 2023:**
 
@@ -93,7 +93,7 @@ Key observations from the weekly trend:
 ### Nebula (NEB) — The New Entry
 
 - **2022 Revenue:** $26,179 | **Orders:** 127 | **Est. AOV:** ~$206
-- NEB entered in Q3 2022 and immediately achieved a profitable first quarter, confirming that the Foundation Group's operational model is now fully replicable.
+- NEB entered in Q3 2022 and immediately achieved a profitable first quarter, confirming that the Rabbona Group's operational model is now fully replicable.
 - **Assessment:** The ~$206 AOV rivals VIC, indicating strong product-market fit in the pop culture segment. Watch Q1-Q2 2023 closely as this brand establishes its seasonal rhythm.
 
 ---

@@ -15,7 +15,7 @@
 
 ## Business Context: The "Single-Brand" Risk
 
-By the close of 2021, the Foundation Group had built a successful e-commerce operation, yet one with a critical structural flaw: **nearly 90% of all revenue was concentrated in a single legacy brand (Pasión Albiverde)**. The business was profitable, but fragile — one bad season or one algorithmic shift in the PA fan base could wipe out the majority of revenue overnight.
+By the close of 2021, the Rabbona Group had built a successful e-commerce operation, yet one with a critical structural flaw: **nearly 90% of all revenue was concentrated in a single legacy brand (Pasión Albiverde)**. The business was profitable, but fragile — one bad season or one algorithmic shift in the PA fan base could wipe out the majority of revenue overnight.
 
 The 2022 roadmap was designed to directly address this vulnerability. New storefronts were launched targeting adjacent fandoms: **Rabbona (Global Soccer)** and **Victus (Sports Lifestyle)**. The question was not just *whether* they could generate revenue — but *whether* the core operational model was truly replicable across different audiences at scale.
 
@@ -23,7 +23,7 @@ The 2022 roadmap was designed to directly address this vulnerability. New storef
 
 ## The Objective
 
-To perform a rigorous **FY 2022 Performance Review** for the consolidated "Foundation Group" portfolio, with two analytical goals:
+To perform a rigorous **FY 2022 Performance Review** for the consolidated "Rabbona Group" portfolio, with two analytical goals:
 
 1. **Diagnose the Growth Engine:** Isolate whether revenue growth was driven by **Volume (Order Count)** or **Price (AOV)** — a distinction with major strategic implications for how to scale next.
 2. **Validate the Diversification Hypothesis:** Determine whether the new storefronts (RBN, VIC) had achieved meaningful, self-sustaining revenue share by year-end, successfully reducing single-brand dependency.
