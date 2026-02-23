@@ -4,7 +4,7 @@ SCIPT NAME:     01_schema_setup.sql
 DESCRIPTION:    Initializes the Data Warehouse schema (Star Schema).
                 Creates Fact and Dimension tables with primary/foreign keys.
 AUTHOR:         Luis Fernando Jordan
-DATE:           2026-01-24
+DATE:           2022-01-24
 ===============================================================================
 */
 CREATE TABLE IF NOT EXISTS stg_orders (

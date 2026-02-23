@@ -1,0 +1,14 @@
+# Python scripts (contain credentials)
+export_data.py
+export_bridge.py
+
+# macOS metadata
+.DS_Store
+
+# Tableau temp files
+~*.twbr
+*.twbr
+
+# Python cache
+__pycache__/
+*.pyc
