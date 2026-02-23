@@ -57,15 +57,15 @@ The Revenue Bridge below decomposes the +$174,720 (+70%) growth from 2021 to 202
 
 ---
 
-## 4. Weekly Performance Trend
+## 4. Monthly Performance Trend
 
 ![Monthly Revenue Trend by Store](../assets/monthly_revenue.png)
-*Chart: Weekly net revenue per store (2022). Identifies seasonal peaks, Q2 surge, and new store launch cadence.*
+*Chart: Monthly net revenue per store (2022). Identifies seasonal peaks, Q2 surge, and new store launch cadence.*
 
-Key observations from the weekly trend:
+Key observations from the monthly trend:
 
 - **Q2 (April–June)** shows the clearest volume spike, particularly for RBN — driven by international football season alignment.
-- **VIC shows consistent week-over-week growth** throughout the year, confirming accelerating brand awareness.
+- **VIC shows consistent month-over-month growth** throughout the year, confirming accelerating brand awareness.
 - **NEB's launch in Q3** visibly adds a new revenue layer without cannibalizing existing stores.
 
 ---
