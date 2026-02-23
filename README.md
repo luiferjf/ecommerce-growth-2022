@@ -57,7 +57,7 @@ The Revenue Bridge Analysis isolates the two drivers of revenue variance:
 
 The "Revenue Share" area chart tells the story clearly:
 
-- **Q1 2022:** Pasión Albiverde accounted for approximately 90% of daily revenue.
+- **Q1 2021:** Pasión Albiverde accounted for approximately 90% of daily revenue.
 - **Q4 2022:** The portfolio had shifted to a balanced ecosystem, with RBN and VIC commanding a combined ~42% of revenue.
 - **Conclusion:** The multi-brand model is not only viable — it is stable. Operational risk is now distributed across multiple revenue streams.
 
