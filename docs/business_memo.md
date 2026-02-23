@@ -33,6 +33,7 @@ To appreciate the 2022 results, the baseline must be established clearly.
 | **2022** | $156,471 (37%) | $147,321 (35%) | $93,457 (22%) | $26,179 (6%) | **$423,428** |
 
 ![Revenue Share by Brand — Area Chart](../assets/mix_shift.png)
+
 *Chart: Revenue share shift from single-brand dependency (2020) to a balanced 4-brand ecosystem (2022).*
 
 **The pivotal insight:** In 2020, a total failure of Pasión Albiverde would have meant a 100% revenue loss. By the end of 2022, that same scenario would leave the business with **$266,957 in annual revenue** from three other brands still standing. That is what de-risking an operation looks like in practice.
@@ -46,6 +47,7 @@ To appreciate the 2022 results, the baseline must be established clearly.
 The Revenue Bridge below decomposes the +$174,720 (+70%) growth from 2021 to 2022 into its two root causes: Volume and Price.
 
 ![Revenue Bridge Analysis](../assets/growth_bridge.png)
+
 *Chart: Waterfall decomposition of revenue variance — Volume impact vs. Price (AOV) impact.*
 
 | Driver | Impact | Interpretation |
@@ -60,6 +62,7 @@ The Revenue Bridge below decomposes the +$174,720 (+70%) growth from 2021 to 202
 ## 4. Monthly Performance Trend
 
 ![Monthly Revenue Trend by Store](../assets/monthly_revenue.png)
+
 *Chart: Monthly net revenue per store (2022). Identifies seasonal peaks, Q2 surge, and new store launch cadence.*
 
 Key observations from the monthly trend:
