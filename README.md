@@ -4,14 +4,14 @@
 
 > **Interactive Dashboard:** [View Live on Tableau Public](https://public.tableau.com/app/profile/luis.jordan.franco/viz/executive-summary/Dashboard1)
 
-> 📄 **Full Analysis:** [Read the Business Memo — Growth Mechanics & Strategic Recommendations](docs/business_memo.md)
-
 | FY 2022 KPI | Value |
 | :--- | :--- |
 | **Net Revenue** | $423,429 |
 | **Total Orders** | 2,521 |
 | **Active Brands** | 4 (PA, RBN, VIC, NEB) |
 | **PA Revenue Share (Dec 2022)** | 28% — down from 100% in 2020 |
+
+📄 **[Read the full Business Memo — Growth Mechanics & Strategic Recommendations →](docs/business_memo.md)**
 
 ---
 
