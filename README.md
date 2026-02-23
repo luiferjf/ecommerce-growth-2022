@@ -4,6 +4,8 @@
 
 > **Interactive Dashboard:** [View Live on Tableau Public](https://public.tableau.com/app/profile/luis.jordan.franco/viz/executive-summary/Dashboard1)
 
+> 📄 **Full Analysis:** [Read the Business Memo — Growth Mechanics & Strategic Recommendations](docs/business_memo.md)
+
 | FY 2022 KPI | Value |
 | :--- | :--- |
 | **Net Revenue** | $423,429 |
